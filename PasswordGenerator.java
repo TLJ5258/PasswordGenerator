@@ -15,11 +15,11 @@ public class PasswordGenerator
 
         //Ask user how many passwords they want generated
         Scanner in = new Scanner(System.in);
-        System.out.print("How many random passwords do you want to generate? ");
+        System.out.print("How many passwords do you want to generate? ");
         int total = in.nextInt();
 
         //Ask user how long they want their passwords to be
-        System.out.print("How long do you want your random passwords to be? ");
+        System.out.print("Preferred password length (in characters)? ");
         int length = in.nextInt();
 
         //Create array of random passwords
