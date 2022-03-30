@@ -2,7 +2,7 @@ package passwordgenerator;
 
 /**
  *
- * @author tjack
+ * @author TLJ5258
  */
 
 import java.util.Scanner;
